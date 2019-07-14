@@ -9,7 +9,7 @@
 <body>
     <form action="q2.php" method="POST">
         <h3>Entre com o local<input name="local" type="text">
-            <button type="submit">Clique-me</button>
+            <button type="submit">Clique-me</button>    
         </h3>
     </form>
 </body>
